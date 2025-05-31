@@ -1,3 +1,4 @@
+//Distance mesurement using Ultrasonic sensor
 const int trigPin = 9;
 const int echoPin = 10;
 
