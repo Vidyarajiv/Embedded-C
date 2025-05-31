@@ -1,3 +1,4 @@
+//Bluetooth controlled LED using Arduino
 char incomingChar;
 
 void setup() {
